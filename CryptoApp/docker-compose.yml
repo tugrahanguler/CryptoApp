@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  cryptoapp:
+    image: ${DOCKER_REGISTRY-}cryptoapp
+    build:
+      context: .
+      dockerfile: CryptoApp\Dockerfile

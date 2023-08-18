@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoApp", "CryptoApp\CryptoApp.csproj", "{9ED61C06-E092-47AF-858B-E51A88BDDBAC}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{484D3B36-104A-4888-BF37-C42C67395943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED61C06-E092-47AF-858B-E51A88BDDBAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED61C06-E092-47AF-858B-E51A88BDDBAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED61C06-E092-47AF-858B-E51A88BDDBAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED61C06-E092-47AF-858B-E51A88BDDBAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484D3B36-104A-4888-BF37-C42C67395943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484D3B36-104A-4888-BF37-C42C67395943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484D3B36-104A-4888-BF37-C42C67395943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484D3B36-104A-4888-BF37-C42C67395943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C603CC2B-FE6E-4F02-A8E3-A013F0EE18BF}
+	EndGlobalSection
+EndGlobal
